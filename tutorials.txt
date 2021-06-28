@@ -1,0 +1,7 @@
+Youtube Link for tutorials of C++: https://www.youtube.com/watch?v=vLnPwxZdW4Y
+
+Youtube Link for DSA: https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr
+
+Youtube Link for Dynamic Programming: https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+
+Questions to Practice: https://cses.fi/problemset/
